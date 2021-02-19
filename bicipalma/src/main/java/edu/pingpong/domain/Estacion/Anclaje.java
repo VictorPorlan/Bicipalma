@@ -25,6 +25,6 @@ public class Anclaje {
     }
     @Override
     public String toString(){
-        return "Ocupado:"+ Boolean.toString(isOcupado());
+        return "Estado:" + Boolean.toString(isOcupado());
     }
 }
